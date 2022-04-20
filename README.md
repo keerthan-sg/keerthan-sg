@@ -1,8 +1,8 @@
-### Hi there 👋
+Hi there, This is Keerthan! 👋
 
-**keerthan-sg/keerthan-sg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+
+🔭 I am a Full Stack Developer, Teacher, Founder of DevJunction and an all time self motivated learner, majorly worked with Django and ReactJS You can checkout few of mine insightful posts here on LinkedIn
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -13,3 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
+
+
+
+Skills 🤖
+                   
+
+Stats 👨‍💻
+ 
