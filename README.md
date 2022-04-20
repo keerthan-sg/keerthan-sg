@@ -2,7 +2,7 @@ Hi there, This is Keerthan! 👋
 
 
 
-🔭 I am a Full Stack Developer, Teacher, Founder of DevJunction and an all time self motivated learner, majorly worked with Django and ReactJS You can checkout few of mine insightful posts here on LinkedIn
+🔭 I am a Full Stack Developer
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
