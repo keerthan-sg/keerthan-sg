@@ -14,7 +14,7 @@ Hi there, This is Keerthan! 👋
 - ⚡ Fun fact: ...
 
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=keerthan-sg)](https://github.com/anuraghazra/github-readme-stats)
 
 Skills 🤖
                    
