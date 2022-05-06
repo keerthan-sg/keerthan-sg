@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Flask ,Python ,Javascript, Mysql ,Html,Css,Xpaths**
 
-- 💬 Ask me about **Flask ,Python ,Javascript, Mysql ,Html,Css,Xpaths**
-
 - 📫 How to reach me **keerthansp11@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
