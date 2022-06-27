@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Keerthan</h1>
 <h3 align="center">A passionate python developer from India</h3>
 
-- 🔭 I’m currently working on **Flask ,Python ,Javascript, Mysql ,Html,Css,Xpaths**
+- 🔭 I’m currently working on **Flask ,Python , Mysql ,Html,Css,Xpaths**
 
-- 🌱 I’m currently learning **Flask ,Python ,Javascript, Mysql ,Html,Css,Xpaths**
+- 🌱 I’m currently learning **Flask ,Python , Mysql ,Html,Css,Xpaths**
 
 - 📫 How to reach me **keerthansp11@gmail.com**
 
