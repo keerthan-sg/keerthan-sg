@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Flask ,Python , Mysql ,Html,Css,Xpaths**
 
-- 🌱 I’m currently learning **Flask ,Python ,Javascript , Mysql ,Html,Css,Xpaths**
+- 🌱 I’m currently learning **Flask ,Python , Mysql ,Html,Css,Xpaths ,Javascript**
 
 - 📫 How to reach me **keerthansp11@gmail.com**
 
